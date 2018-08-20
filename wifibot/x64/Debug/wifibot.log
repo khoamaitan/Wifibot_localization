@@ -1,0 +1,85 @@
+﻿  Wifibot.cpp
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\wifibot.cpp(40): warning C4805: '==': unsafe mix of type 'unsigned int' and type 'bool' in operation
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\wifibot.cpp(279): warning C4244: '=': conversion from 'long' to 'BYTE', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\wifibot.cpp(280): warning C4244: '=': conversion from 'long' to 'BYTE', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\wifibot.cpp(393): warning C4244: '=': conversion from 'long' to 'BYTE', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\wifibot.cpp(394): warning C4244: '=': conversion from 'long' to 'BYTE', possible loss of data
+  robot.cpp
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(136): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(142): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(149): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(151): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(215): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(243): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(248): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(256): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(268): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(268): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(269): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(269): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(270): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(270): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(267): warning C4101: 'dRR': unreferenced local variable
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(267): warning C4101: 'dLR': unreferenced local variable
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(267): warning C4101: 'dRF': unreferenced local variable
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(267): warning C4101: 'dLF': unreferenced local variable
+  real_map.cpp
+  PF_Tracking.cpp
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(14): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(25): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(67): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(72): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(105): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(128): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(88): warning C4101: 'k': unreferenced local variable
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(207): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(208): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(214): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(215): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(318): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(324): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf_tracking.cpp(329): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PF.cpp
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.h(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(16): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(17): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(18): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(19): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(20): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(21): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(22): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(23): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(24): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(25): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(26): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(28): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(29): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(30): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(31): warning C4305: '=': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.cpp(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+e:\opencv\install\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\pf.h(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\main.cpp(43): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\main.cpp(407): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\main.cpp(408): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\main.cpp(490): warning C4101: 'leftIR_back': unreferenced local variable
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\main.cpp(491): warning C4101: 'rightIR_back': unreferenced local variable
+  KLT_tracking.cpp
+  Generating Code...
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\real_map.cpp(81): warning C4715: 'real_map::draw_on_map': not all control paths return a value
+d:\dropbox\new code\c_fetescience\wifibot\wifibot\robot.cpp(312): warning C4172: returning address of local variable or temporary: new_robot
+  wifibot.vcxproj -> D:\Dropbox\new code\C_FeteScience\wifibot\x64\Debug\wifibot.exe
+  wifibot.vcxproj -> D:\Dropbox\new code\C_FeteScience\wifibot\x64\Debug\wifibot.pdb (Partial PDB)
